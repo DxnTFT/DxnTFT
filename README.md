@@ -68,10 +68,10 @@ Mobile fitness application with user authentication, onboarding flow, workout tr
 </td>
 <td width="50%">
 
-### Swing Trading Bot
+### NQ Futures Trading System
 `Python` `Alpaca API` `Finnhub` `GitHub Actions`
 
-Automated stock trading system running entirely in the cloud via GitHub Actions. Confluence-based entry signals, trailing stop protection, and news sentiment integration. Backtested across 5 tickers with 60-72% win rates.
+Automated trading system for Nasdaq futures with intraday strategies, market regime detection, confluence-based signals, and backtesting. Built for prop firm evaluation (Topstep).
 
 </td>
 </tr>
@@ -103,8 +103,8 @@ TFT composition optimizer with real-time suggestions, cost-optimized solutions, 
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=DxnTFT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DxnTFT&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DxnTFT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DxnTFT&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117" />
 
 <br/><br/>
 
