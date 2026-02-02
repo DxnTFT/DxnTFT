@@ -97,23 +97,6 @@ TFT composition optimizer with real-time suggestions, cost-optimized solutions, 
 </tr>
 </table>
 
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DxnTFT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" />
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DxnTFT&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DxnTFT&theme=tokyonight&hide_border=true&background=0D1117" />
-
-</div>
-
-<br/>
-
 ---
 
 <div align="center">
