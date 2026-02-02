@@ -1,29 +1,12 @@
-<div align="center">
+# Hey, I'm David Nguyen
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey%2C+I'm+David+Nguyen;Developer+%7C+Builder+%7C+Automation+Enthusiast" alt="Typing SVG" />
-
-<br/>
-
-Developer with a focus on building automation systems, trading tools, and full-stack applications.<br/>
-Studied software engineering at App Academy.<br/>
-I like building things that solve real problems -- from prediction market bots to mobile fitness apps.
-
-<br/><br/>
+Developer with a focus on building automation systems, trading tools, and full-stack applications. Studied software engineering at App Academy. I like building things that solve real problems -- from prediction market bots to mobile fitness apps.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-70A5FD?style=for-the-badge&logoColor=white)](https://github.com/DxnTFT)
 
-</div>
-
-<br/>
-
 ## Languages & Tools
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
-### Languages
-<div align="center">
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -32,12 +15,7 @@ I like building things that solve real problems -- from prediction market bots t
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-</div>
-</td>
-<td valign="top" width="33%">
-
-### Frameworks
-<div align="center">
+**Frameworks & Libraries**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -47,12 +25,7 @@ I like building things that solve real problems -- from prediction market bots t
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-</div>
-</td>
-<td valign="top" width="33%">
-
-### Infrastructure
-<div align="center">
+**Infrastructure & Tools**
 
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -60,11 +33,6 @@ I like building things that solve real problems -- from prediction market bots t
 ![Discord](https://img.shields.io/badge/Discord_Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web3.py-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
-
-</div>
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -141,10 +109,6 @@ TFT composition optimizer with real-time suggestions, cost-optimized solutions, 
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DxnTFT&theme=tokyonight&hide_border=true&background=0D1117" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DxnTFT&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
 
 </div>
 
