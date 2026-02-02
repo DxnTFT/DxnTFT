@@ -1,6 +1,6 @@
 # Hey, I'm David Nguyen
 
-Software Engineer with a focus on building automation systems, trading tools, and full-stack applications. Studied software engineering at App Academy. I like building things that solve real problems -- from prediction market bots to mobile fitness apps.
+Developer with a focus on building automation systems, trading tools, and full-stack applications. Studied software engineering at App Academy. I like building things that solve real problems -- from prediction market bots to mobile fitness apps.
 
 ## Languages & Tools
 
