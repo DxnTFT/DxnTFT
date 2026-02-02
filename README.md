@@ -69,7 +69,7 @@ Mobile fitness application with user authentication, onboarding flow, workout tr
 <td width="50%">
 
 ### NQ Futures Trading System
-`Python` `Alpaca API` `Finnhub` `GitHub Actions`
+`Python` `Interactive Brokers` `FastAPI` `SQLAlchemy`
 
 Automated trading system for Nasdaq futures with intraday strategies, market regime detection, confluence-based signals, and backtesting. Built for prop firm evaluation (Topstep).
 
