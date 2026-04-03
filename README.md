@@ -2,7 +2,7 @@
 
 Developer with a focus on building automation systems, trading tools, and full-stack applications. Studied software engineering at App Academy. I like building things that solve real problems -- from prediction market bots to mobile fitness apps.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-70A5FD?style=for-the-badge&logoColor=white)](https://portfolio-dxntfts-projects.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-70A5FD?style=for-the-badge&logoColor=white)](https://portfolio-nine-neon-5h4u6viz7c.vercel.app)
 
 ## Languages & Tools
 
