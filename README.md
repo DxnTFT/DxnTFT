@@ -2,7 +2,7 @@
 
 Developer with a focus on building automation systems, trading tools, and full-stack applications. Studied software engineering at App Academy. I like building things that solve real problems -- from prediction market bots to mobile fitness apps.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-70A5FD?style=for-the-badge&logoColor=white)](https://github.com/DxnTFT)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-70A5FD?style=for-the-badge&logoColor=white)](https://portfolio-dxntfts-projects.vercel.app)
 
 ## Languages & Tools
 
@@ -33,84 +33,6 @@ Developer with a focus on building automation systems, trading tools, and full-s
 ![Discord](https://img.shields.io/badge/Discord_Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web3.py-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
-
-<br/>
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌳 Green Image Tree Service
-`HTML` `CSS` `JavaScript` `Vercel` `Google Ads` `SEO`
-
-Full marketing website + Google Ads campaign for a DFW tree care company. 43 hand-built pages, 10 geo-targeted city landing pages, 15 service pages, 7 blog articles, live storm alerts via NWS API, dark mode, video hero carousel, and a 12-campaign Google Ads architecture with 190+ keywords.
-
-[![Live Site](https://img.shields.io/badge/Live_Site-success?style=flat)](https://greenimagetreeservice.com) [![Portfolio](https://img.shields.io/badge/Portfolio_Case_Study-5a7247?style=flat)](https://github.com/DxnTFT/tree-service/blob/main/green-image-site/docs/portfolio.html) [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/DxnTFT/tree-service)
-
-</td>
-<td width="50%">
-
-### Prediction Market Trading System
-`Python` `asyncio` `FastAPI` `Web3.py` `WebSocket`
-
-Production trading system for prediction markets with real-time price streaming, automated order management, risk controls, and a live monitoring dashboard. Handles real capital with sub-second opportunity detection.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### Polymarket Whale Tracker
-`Python` `aiohttp` `Discord Webhooks`
-
-Real-time monitoring tool that tracks the positions and trades of top Polymarket traders. Features change detection, arbitrage pair identification, and Discord alerts for significant moves.
-
-</td>
-<td width="50%">
-
-### Fitness App
-`TypeScript` `React Native` `Expo` `Supabase`
-
-Mobile fitness application with user authentication, onboarding flow, workout tracking, nutrition logging, progress dashboards, and AI-powered features. Built with a full backend on Supabase.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### NQ Futures Trading System
-`Python` `Interactive Brokers` `FastAPI` `SQLAlchemy`
-
-Automated trading system for Nasdaq futures with intraday strategies, market regime detection, confluence-based signals, and backtesting. Built for prop firm evaluation (Topstep).
-
-</td>
-<td width="50%">
-
-### Product Research Bot
-`Python` `Streamlit` `Playwright` `VADER Sentiment`
-
-E-commerce product discovery tool that combines Google Trends, Amazon competition analysis, Shopify saturation checks, and Reddit sentiment to score product opportunities 0-100. Web UI for team use.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### Ryze Trait Tracker
-`React` `Vite` `CSS`
-
-TFT composition optimizer with real-time suggestions, cost-optimized solutions, and mobile-responsive design. Live and used by the community.
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-success?style=flat)](https://ryze-tracker.vercel.app) [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/DxnTFT/ryze-tracker)
-
-</td>
-<td width="50%">
-
-</td>
-</tr>
-</table>
 
 ---
 
